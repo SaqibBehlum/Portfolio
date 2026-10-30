@@ -1,18 +1,26 @@
-# SAQIB AHMED
-
 <div align="center">
+
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #f8d77f 0%, #f4a261 30%, #a78bfa 70%, #7dd3fc 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; color: transparent; font-size: 2.6rem; letter-spacing: 0.08em;">SAQIB AHMED</span>
+</h1>
+
+<p align="center">
+  <strong>AI & ML Student • Data Analyst • Problem Solver</strong>
+</p>
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Open%20to%20Opportunities-0B1026?style=for-the-badge&logo=github)
 ![AI%2FML](https://img.shields.io/badge/Focus-AI%20%26%20ML-FFB703?style=for-the-badge)
-![Data](https://img.shields.io/badge/Data-Analytics%20%26%20BI-2E86DE?style=for-the-badge)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![Remote](https://img.shields.io/badge/Status-Open%20to%20Remote%20Roles-27AE60?style=for-the-badge)
 
-<h1>AI & Machine Learning Student | Data Analyst in Training</h1>
+<p align="center">
+  <a href="https://github.com/SaqibBehlum"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:behlumsaqibali@gmail.com"><img src="https://img.shields.io/badge/Email-Me-0B1026?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-A motivated learner passionate about building intelligent systems, extracting insight from data, and creating solutions that are practical, useful, and measurable.
-
-[GitHub](https://github.com/SaqibBehlum) • [Email](mailto:behlumsaqibali@gmail.com) • Pakistan • Open to internships, freelance work, and remote roles
+<p align="center">
+  Building practical AI solutions, turning data into insight, and creating work that recruiters can trust.
+</p>
 
 </div>
 
@@ -20,29 +28,29 @@ A motivated learner passionate about building intelligent systems, extracting in
 
 ## About Me
 
-I am Saqib Ahmed, a final-year BS Information Technology student with a CGPA of 3.61, driven by a strong interest in artificial intelligence, machine learning, and data-driven decision making. I enjoy turning raw information into meaningful insight and building solutions that are both technically sound and easy to understand.
+I’m Saqib Ahmed, a final-year BS Information Technology student with a CGPA of 3.61, focused on artificial intelligence, machine learning, data analysis, and business intelligence. I enjoy learning by building, solving real problems, and creating work that is both technically solid and easy to understand.
 
-My work is centered around:
+I’m especially interested in:
 - Machine learning and predictive modeling
-- Data cleaning, transformation, and analysis
-- Data visualization and business intelligence
-- AI-powered application ideas and practical prototypes
-- Solving real-world problems with structured thinking and technical execution
+- Data cleaning, analysis, and visualization
+- Power BI dashboards and data storytelling
+- AI-powered solutions and prototypes
+- Product-minded problem solving
 
 ---
 
 ## Why Hire Me?
 
-I bring a combination of curiosity, initiative, and hands-on learning mindset that helps me adapt quickly and contribute meaningfully in modern tech environments.
+I bring curiosity, initiative, and a practical learning mindset. I enjoy working on projects where I can learn quickly, solve real challenges, and deliver value through clean execution.
 
 What I offer:
 - Strong foundation in Python, SQL, and data workflows
-- Ability to work with machine learning models and real datasets
-- Interest in analytics, reporting, and Power BI-driven insights
-- Practical understanding of product-minded problem solving
-- A disciplined approach to learning, testing, and improving
+- Experience with machine learning concepts and model-building pipelines
+- Ability to analyze raw data and present insights clearly
+- Interest in BI tools like Power BI for reporting and decision support
+- A disciplined approach to learning, iterating, and improving
 
-I enjoy work where I can learn fast, build confidently, and deliver value through thoughtful execution.
+I’m looking for opportunities where I can contribute, learn fast, and grow in a professional environment.
 
 ---
 
@@ -78,20 +86,20 @@ I enjoy work where I can learn fast, build confidently, and deliver value throug
 
 ## Featured Work
 
-### AI / Machine Learning Projects
-- Develop machine learning models using Python and data science workflows
-- Work with feature engineering, preprocessing, evaluation, and model comparison
-- Focus on building practical solutions that demonstrate real-world thinking
+### AI / Machine Learning
+- Build models using Python and structured data workflows
+- Work with preprocessing, evaluation, and model comparison
+- Focus on practical, real-world problem solving
 
-### Data Analysis & Business Intelligence
-- Clean and structure raw data for decision-making and reporting
-- Transform information into clear insights, dashboards, and visual summaries
-- Use Power BI and analytical workflows to communicate value effectively
+### Data Analysis & BI
+- Clean and transform raw data into meaningful insights
+- Create dashboards and reports that support decisions
+- Use Power BI to communicate trends clearly and professionally
 
-### Web & Product Experience
-- Build modern, user-friendly digital experiences
-- Combine technical execution with polished presentation and clear communication
-- Showcase work in a way that is professional, understandable, and recruiter-friendly
+### Product & Portfolio Development
+- Build polished digital experiences and portfolio work
+- Combine technical skill with user-focused presentation
+- Showcase work in a way that is clear to recruiters and collaborators
 
 ---
 
@@ -106,7 +114,7 @@ I enjoy work where I can learn fast, build confidently, and deliver value throug
 
 ## Career Interests
 
-I am actively seeking opportunities in:
+I’m actively seeking opportunities in:
 - AI and Machine Learning
 - Data Analysis and Data Science
 - Business Intelligence and dashboard reporting
@@ -115,24 +123,18 @@ I am actively seeking opportunities in:
 
 ---
 
-## Connect
+## Contact
 
 - Email: behlumsaqibali@gmail.com
-- Phone / WhatsApp: +92 315 3236801
+- WhatsApp: +92 315 3236801
 - GitHub: https://github.com/SaqibBehlum
 - Location: Pakistan
-- Open to remote opportunities and the right long-term fit
-
----
-
-## Portfolio Summary
-
-This repository is my professional portfolio and showcase of technical work. It reflects my interest in AI, analytics, software development, and problem-solving, while presenting my capabilities in a clean and professional format for recruiters and collaborators.
+- Open to remote roles and the right long-term fit
 
 ---
 
 ## Final Note
 
-I am passionate about learning, building, and contributing to work that has real impact. I am eager to grow in AI, data, and product-oriented environments where I can learn quickly and add value.
+I’m passionate about learning, building, and contributing to work that solves real problems. I’m ready to grow in AI, data, and product-focused environments where I can add value and keep improving.
 
 “Turning data into insight, and ideas into working solutions.”
