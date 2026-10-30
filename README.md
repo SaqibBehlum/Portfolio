@@ -5,13 +5,14 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-Open%20to%20Opportunities-0B1026?style=for-the-badge&logo=github)
 ![AI%2FML](https://img.shields.io/badge/Focus-AI%20%26%20ML-FFB703?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20ML-6C63FF?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![Remote](https://img.shields.io/badge/Status-Open%20to%20Remote%20Work-27AE60?style=for-the-badge)
 
 <h1>AI & Machine Learning Student</h1>
 
-A passionate BS Information Technology student building practical AI solutions, data-driven products, and machine learning projects that turn ideas into working outcomes.
+A driven and curious learner focused on building practical AI solutions, uncovering insight from data, and creating products that solve real-world problems.
 
-[GitHub](https://github.com/SaqibBehlum) • [Email](mailto:behlumsaqibali@gmail.com) • Pakistan • Open to internships and remote roles
+[GitHub](https://github.com/SaqibBehlum) • [Email](mailto:behlumsaqibali@gmail.com) • [LinkedIn](https://www.linkedin.com) • Pakistan • Open to intern roles and remote opportunities
 
 </div>
 
@@ -19,27 +20,20 @@ A passionate BS Information Technology student building practical AI solutions, 
 
 ## About Me
 
-I’m Saqib Ahmed, a final-year BS Information Technology student with a CGPA of 3.61, focused on machine learning, data analysis, and AI-powered problem solving. I enjoy working with messy datasets, building models, and turning technical ideas into solutions that are both logical and usable.
+I am Saqib Ahmed, a final-year BS Information Technology student with a CGPA of 3.61, passionate about machine learning, artificial intelligence, and data-driven problem solving. I enjoy turning raw data into meaningful insight and building solutions that are practical, efficient, and user-focused.
 
-I am especially interested in:
-- Machine learning and predictive modeling
-- Data analysis and visualization
-- AI application development
-- Practical product-driven web experiences
-- Building projects that demonstrate clear thinking and real impact
+My core interests include:
+- Machine learning and predictive analytics
+- Data cleaning, transformation, and visualization
+- AI-powered applications and prototypes
+- Business intelligence and dashboard reporting
+- Building polished, user-friendly software experiences
 
 ---
 
-## Why Hire Me?
+## Why I Build
 
-I bring a combination of:
-- strong curiosity and willingness to learn
-- practical project experience in AI and data work
-- clean problem-solving mindset
-- a focus on building things that work beyond the notebook
-- interest in contributing to meaningful tech work
-
-I enjoy solving real problems with data, logic, and technology — and I’m motivated to grow in environments where I can build, learn, and contribute.
+I like solving problems where the data is messy, the challenge is unclear, and the result has to be useful beyond a notebook. I care about clear thinking, measurable outcomes, and building solutions that people can actually use and trust.
 
 ---
 
@@ -61,6 +55,7 @@ I enjoy solving real problems with data, logic, and technology — and I’m mot
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
 ### Tools & Platforms
 
@@ -72,24 +67,22 @@ I enjoy solving real problems with data, logic, and technology — and I’m mot
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### Project 1: AI / ML Portfolio Work
-- Focus: Machine learning, analytics, and practical problem solving
-- Skills: Python, scikit-learn, data preprocessing, model evaluation
-- Goal: Showcase projects that demonstrate real workflow thinking from data to insight
+### AI / Machine Learning Projects
+- Build and evaluate machine learning models using Python
+- Work with real-world datasets, feature engineering, and model comparison
+- Present findings in a clear and actionable way
 
-### Project 2: Data-Driven Insights
-- Focus: Data cleaning, analysis, and interpretation
-- Skills: Pandas, NumPy, SQL, Matplotlib
-- Goal: Transform raw datasets into understandable and actionable results
+### Data Analysis & Business Intelligence
+- Clean and structure raw data for meaningful analysis
+- Create dashboards and reports with visuals that support decision-making
+- Use Power BI and analytical workflows to communicate insights effectively
 
-### Project 3: Web-Based Experience
-- Focus: Portfolio and interactive user experiences
-- Skills: HTML, CSS, JavaScript
-- Goal: Combine technical ability with modern, polished presentation
-
-> This portfolio repository itself reflects my interest in building well-structured, professional, and visually appealing digital work.
+### Product & Portfolio Development
+- Build user-friendly web experiences and polished digital showcases
+- Combine technical skills with visual design and presentation
+- Showcase work in a way that is understandable to recruiters and collaborators
 
 ---
 
@@ -104,11 +97,12 @@ I enjoy solving real problems with data, logic, and technology — and I’m mot
 
 ## Career Interests
 
-I’m actively looking for opportunities in:
-- AI and Machine Learning roles
-- Data analysis and data science work
-- Software development internships
-- Remote and project-based opportunities
+I’m looking for opportunities in:
+- AI and Machine Learning
+- Data Analysis and Data Science
+- Business Intelligence and dashboard reporting
+- Internships and project-based work
+- Remote and collaborative opportunities
 
 ---
 
@@ -118,18 +112,18 @@ I’m actively looking for opportunities in:
 - Phone / WhatsApp: +92 315 3236801
 - GitHub: https://github.com/SaqibBehlum
 - Location: Pakistan
-- Open to remote work and relocation for the right fit
+- Open to remote opportunities and the right long-term fit
 
 ---
 
 ## Portfolio Overview
 
-This repository is my personal portfolio and project showcase for recruiters, collaborators, and hiring teams. It reflects my technical interests, work style, and commitment to learning by building.
+This repository is my professional portfolio and project showcase. It reflects my interest in AI, data, analytics, and practical software development, while also demonstrating my ability to present work clearly and professionally.
 
 ---
 
 ## Final Note
 
-I’m passionate about using technology to solve real-world problems, whether through machine learning, data analysis, or user-focused digital experiences. I’m eager to learn, contribute, and grow in a professional environment.
+I am passionate about learning, building, and contributing to technology that solves meaningful problems. I’m eager to grow in AI, data, and product-focused development environments where I can learn fast and add value.
 
-“Turning data into decisions and ideas into working solutions.”
+“Turning data into insight, and ideas into working solutions.”
