@@ -1,18 +1,18 @@
-# Saqib Ahmed
+# SAQIB AHMED
 
 <div align="center">
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Open%20to%20Opportunities-0B1026?style=for-the-badge&logo=github)
 ![AI%2FML](https://img.shields.io/badge/Focus-AI%20%26%20ML-FFB703?style=for-the-badge)
-![Python](https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20ML-6C63FF?style=for-the-badge)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Remote](https://img.shields.io/badge/Status-Open%20to%20Remote%20Work-27AE60?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data-Analytics%20%26%20BI-2E86DE?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Remote](https://img.shields.io/badge/Status-Open%20to%20Remote%20Roles-27AE60?style=for-the-badge)
 
-<h1>AI & Machine Learning Student</h1>
+<h1>AI & Machine Learning Student | Data Analyst in Training</h1>
 
-A driven and curious learner focused on building practical AI solutions, uncovering insight from data, and creating products that solve real-world problems.
+A motivated learner passionate about building intelligent systems, extracting insight from data, and creating solutions that are practical, useful, and measurable.
 
-[GitHub](https://github.com/SaqibBehlum) • [Email](mailto:behlumsaqibali@gmail.com) • [LinkedIn](https://www.linkedin.com) • Pakistan • Open to intern roles and remote opportunities
+[GitHub](https://github.com/SaqibBehlum) • [Email](mailto:behlumsaqibali@gmail.com) • Pakistan • Open to internships, freelance work, and remote roles
 
 </div>
 
@@ -20,26 +20,35 @@ A driven and curious learner focused on building practical AI solutions, uncover
 
 ## About Me
 
-I am Saqib Ahmed, a final-year BS Information Technology student with a CGPA of 3.61, passionate about machine learning, artificial intelligence, and data-driven problem solving. I enjoy turning raw data into meaningful insight and building solutions that are practical, efficient, and user-focused.
+I am Saqib Ahmed, a final-year BS Information Technology student with a CGPA of 3.61, driven by a strong interest in artificial intelligence, machine learning, and data-driven decision making. I enjoy turning raw information into meaningful insight and building solutions that are both technically sound and easy to understand.
 
-My core interests include:
-- Machine learning and predictive analytics
-- Data cleaning, transformation, and visualization
-- AI-powered applications and prototypes
-- Business intelligence and dashboard reporting
-- Building polished, user-friendly software experiences
+My work is centered around:
+- Machine learning and predictive modeling
+- Data cleaning, transformation, and analysis
+- Data visualization and business intelligence
+- AI-powered application ideas and practical prototypes
+- Solving real-world problems with structured thinking and technical execution
 
 ---
 
-## Why I Build
+## Why Hire Me?
 
-I like solving problems where the data is messy, the challenge is unclear, and the result has to be useful beyond a notebook. I care about clear thinking, measurable outcomes, and building solutions that people can actually use and trust.
+I bring a combination of curiosity, initiative, and hands-on learning mindset that helps me adapt quickly and contribute meaningfully in modern tech environments.
+
+What I offer:
+- Strong foundation in Python, SQL, and data workflows
+- Ability to work with machine learning models and real datasets
+- Interest in analytics, reporting, and Power BI-driven insights
+- Practical understanding of product-minded problem solving
+- A disciplined approach to learning, testing, and improving
+
+I enjoy work where I can learn fast, build confidently, and deliver value through thoughtful execution.
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Programming & Data Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,7 +56,7 @@ I like solving problems where the data is messy, the challenge is unclear, and t
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI / ML / Data
+### AI / ML / Analytics
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -70,19 +79,19 @@ I like solving problems where the data is messy, the challenge is unclear, and t
 ## Featured Work
 
 ### AI / Machine Learning Projects
-- Build and evaluate machine learning models using Python
-- Work with real-world datasets, feature engineering, and model comparison
-- Present findings in a clear and actionable way
+- Develop machine learning models using Python and data science workflows
+- Work with feature engineering, preprocessing, evaluation, and model comparison
+- Focus on building practical solutions that demonstrate real-world thinking
 
 ### Data Analysis & Business Intelligence
-- Clean and structure raw data for meaningful analysis
-- Create dashboards and reports with visuals that support decision-making
-- Use Power BI and analytical workflows to communicate insights effectively
+- Clean and structure raw data for decision-making and reporting
+- Transform information into clear insights, dashboards, and visual summaries
+- Use Power BI and analytical workflows to communicate value effectively
 
-### Product & Portfolio Development
-- Build user-friendly web experiences and polished digital showcases
-- Combine technical skills with visual design and presentation
-- Showcase work in a way that is understandable to recruiters and collaborators
+### Web & Product Experience
+- Build modern, user-friendly digital experiences
+- Combine technical execution with polished presentation and clear communication
+- Showcase work in a way that is professional, understandable, and recruiter-friendly
 
 ---
 
@@ -97,16 +106,16 @@ I like solving problems where the data is messy, the challenge is unclear, and t
 
 ## Career Interests
 
-I’m looking for opportunities in:
+I am actively seeking opportunities in:
 - AI and Machine Learning
 - Data Analysis and Data Science
 - Business Intelligence and dashboard reporting
 - Internships and project-based work
-- Remote and collaborative opportunities
+- Remote and collaborative roles
 
 ---
 
-## Connect With Me
+## Connect
 
 - Email: behlumsaqibali@gmail.com
 - Phone / WhatsApp: +92 315 3236801
@@ -116,14 +125,14 @@ I’m looking for opportunities in:
 
 ---
 
-## Portfolio Overview
+## Portfolio Summary
 
-This repository is my professional portfolio and project showcase. It reflects my interest in AI, data, analytics, and practical software development, while also demonstrating my ability to present work clearly and professionally.
+This repository is my professional portfolio and showcase of technical work. It reflects my interest in AI, analytics, software development, and problem-solving, while presenting my capabilities in a clean and professional format for recruiters and collaborators.
 
 ---
 
 ## Final Note
 
-I am passionate about learning, building, and contributing to technology that solves meaningful problems. I’m eager to grow in AI, data, and product-focused development environments where I can learn fast and add value.
+I am passionate about learning, building, and contributing to work that has real impact. I am eager to grow in AI, data, and product-oriented environments where I can learn quickly and add value.
 
 “Turning data into insight, and ideas into working solutions.”
